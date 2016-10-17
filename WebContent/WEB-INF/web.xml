@@ -13,7 +13,7 @@
     <description></description>
     <display-name>AddBatchController</display-name>
     <servlet-name>AddBatchController</servlet-name>
-    <servlet-class>com.sonata.pharma.controller.AddBatchController</servlet-class>
+    <servlet-class>com.pharma.controller.AddBatchController</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>AddBatchController</servlet-name>
@@ -23,7 +23,7 @@
     <description></description>
     <display-name>RetrieveBatchController</display-name>
     <servlet-name>RetrieveBatchController</servlet-name>
-    <servlet-class>com.sonata.pharma.controller.RetrieveBatchController</servlet-class>
+    <servlet-class>com.pharma.controller.RetrieveBatchController</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>RetrieveBatchController</servlet-name>
@@ -33,7 +33,7 @@
     <description></description>
     <display-name>LoginController</display-name>
     <servlet-name>LoginController</servlet-name>
-    <servlet-class>com.sonata.pharma.controller.LoginController</servlet-class>
+    <servlet-class>com.pharma.controller.LoginController</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>LoginController</servlet-name>
